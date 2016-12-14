@@ -1,3 +1,20 @@
 body{
   font-family:sans-serif;
+  color:#d4ead0;
+}
+.header{
+  display:inline;
+  color: #74aa6b;
+  width:95%;
+  height:220px;
+  margin: 10px;
+}
+.tagline{
+  disply: block
+  width: 95%;
+  color:#a5afa3;
+  margin:10px;
+}
+.skills{
+  margin:10px;
 }
